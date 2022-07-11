@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# This project is inspired by momemtum extension.
+
+This project is still in progress
+
+You can preview in below link.
+
+https://momemtum.vercel.app/
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
